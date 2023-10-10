@@ -21,6 +21,7 @@
 #ifndef FLAG_COMPLEX_EDGE_COLLAPSER_H_
 #define FLAG_COMPLEX_EDGE_COLLAPSER_H_
 
+#include <cstdint>
 #include <algorithm>  // for std::includes
 #include <limits>  // for std::numeric_limits
 #include <iostream>
